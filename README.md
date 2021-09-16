@@ -11,7 +11,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/147d41cf-113b-463f-a2e1-58a023ba8c4f/deploy-status)](https://app.netlify.com/sites/gatsby-explor-website-v1/deploys)
 
 ## Demo Website
-- 👉 Netlify : [https://gatsby-explor-v1.app](https://gatsby-explor-website-v1.netlify.app/)
+- 👉 Netlify : [https://explor-travel-website-v1.app](https://gatsby-explor-website-v1.netlify.app/)
 
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
