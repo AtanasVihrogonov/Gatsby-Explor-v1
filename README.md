@@ -8,6 +8,8 @@
   Gatsby Explor - Travel Website
 </h1>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/147d41cf-113b-463f-a2e1-58a023ba8c4f/deploy-status)](https://app.netlify.com/sites/gatsby-explor-website-v1/deploys)
 
 ## Demo Website
