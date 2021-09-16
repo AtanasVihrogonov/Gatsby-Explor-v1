@@ -5,10 +5,14 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby Website Project
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90c9d0f1-6772-47a9-bc5e-5a68e039adeb/deploy-status)](https://app.netlify.com/sites/gatsby-site-example/deploys)
+
+## Demo Website
+- 👉 Netlify : [https://gatsby-explor-v1.app]()
+
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
